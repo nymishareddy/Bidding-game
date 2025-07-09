@@ -1,0 +1,64 @@
+[
+  {
+    "TV_shows_and_movies": [
+      {
+        "Who lifted Mjolnir in avengers endgame?": "captain america",
+        "Who is the host of kaun banega karodpathi?": "amitabh bachchan",
+        "First Indian movie nominated for oscar?": "mother india",
+        "The song to win the oscar in the best original song category 2023?": "naatu naatu",
+        "What is the second Harry potter movie?": "chamber of secrets",
+        "Who is the director of movie bollywood three idiots?": "rajkumar hirani"
+      }
+    ],
+    "Riddles": [
+      {
+        "What is always in front of you but can’t be seen?": "future",
+        "What gets wet while drying?": "towel",
+        "What can you hold in your right hand but never in your left hand?": "my left hand",
+        "What kind of band never plays music?": "rubber band",
+        "What can travel all around the world without leaving a corner?": "stamp",
+        "What can you catch but cannot throw?": "cold"
+      }
+    ],
+    "Mythology": [
+      {
+        "Which one is the first avatar of lord Vishnu?": "matsya",
+        "For how many days did the battle of kurukshetra fought?": "18",
+        "Who wrote the epic Mahabharata while vyasa was dictating?": "lord ganesh",
+        "Who gifted the shiv danush to king janak,broken by Rama at Sita swayamvar?": "parashuram",
+        "Who is the other person in the trimurthi's along with lord Brahma and lord Vishu?": "shiva",
+        "Who is the first wife of lord krishna?": "rukmini"
+      }
+    ],
+    "Sports": [
+      {
+        "What is the begining level in karate?": "white belt",
+        "The game of Cricket originated in which country?": "britain",
+        "In volley ball the number of players in each side?": "6",
+        "Which team won the ODI world cup in 2011?": "india",
+        "Who is the No.1 grand master in chess in india?": "vishwanathan anand",
+        "Who won gold medal in Javelin Throw at Tokyo olympics?": "neeraj chopra"
+      }
+    ],
+    "Geography": [
+      {
+        "Which country is the largest in the world in terms of surafce area?": "russia",
+        "Which is the latitude that runs through the centre of the earth?": "equator",
+        "The tallest mountain in the world is located in which country?": "nepal",
+        "Which is the longest river in the world?": "nile",
+        "In which city is Eiffel tower located?": "paris",
+        "Shortest city in the world?": "vatican city"
+      }
+    ],
+    "General_Knowledge": [
+      {
+        "Which is the sensitive organ in our body?": "skin",
+        "Which planet is known as red planet?": "mars",
+        "Which continent is known as dark continent?": "africa",
+        "Who is popularly known as Iron man of India?": "sardar vallabhbhai patel",
+        "General election in India hold after how many years?": "5",
+        "What is the abbreviation of ATM": "automated teller machine"
+      }
+    ]
+  }
+]
